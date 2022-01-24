@@ -227,6 +227,7 @@ footer h2 {
   .about__bio-section h3 {
     font-size: 40px;
     margin-top: 30px;
+    text-align: center;
   }
 
   .contact-phone {
