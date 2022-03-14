@@ -188,9 +188,6 @@ footer h2 {
 }
 
 @media screen and (max-width: 767px) {
-   .hero-section h1 {
-   }
-
    h2 {
       font-size: 60px;
    }
