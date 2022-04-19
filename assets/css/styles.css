@@ -249,3 +249,16 @@ footer h2 {
         margin-top: 20px;
     }
 }
+
+/* .text-transform-gradient {
+    background: linear-gradient(
+        90deg,
+        #d1aad7,
+        #c88bc4 25.17%,
+        #7b8fdd 50%,
+        #86bff2 73.09%,
+        #bbdef2
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} */
